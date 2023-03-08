@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigSchool_VuTuanTu_2011061955", "BigSchool_VuTuanTu_2011061955\BigSchool_VuTuanTu_2011061955.csproj", "{9ACF72FA-8B2A-44F5-82A2-2A0C10609E4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACF72FA-8B2A-44F5-82A2-2A0C10609E4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ACF72FA-8B2A-44F5-82A2-2A0C10609E4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ACF72FA-8B2A-44F5-82A2-2A0C10609E4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ACF72FA-8B2A-44F5-82A2-2A0C10609E4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA1B1EB9-14B0-4F35-A02C-CFB4C1D9045B}
+	EndGlobalSection
+EndGlobal
